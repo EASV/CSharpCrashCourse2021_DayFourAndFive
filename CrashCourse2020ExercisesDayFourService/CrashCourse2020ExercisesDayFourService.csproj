@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="DomainService" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CrashCourse2020ExercisesDayFourDataLayer\CrashCourse2020ExercisesDayFourDataLayer.csproj" />
+      <ProjectReference Include="..\CrashCourse2020ExercisesDayFourModels\CrashCourse2020ExercisesDayFourModels.csproj" />
+    </ItemGroup>
+
+</Project>

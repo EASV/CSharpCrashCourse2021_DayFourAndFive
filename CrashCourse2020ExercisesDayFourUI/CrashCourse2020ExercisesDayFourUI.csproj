@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CrashCourse2020ExercisesDayFourModels\CrashCourse2020ExercisesDayFourModels.csproj" />
+      <ProjectReference Include="..\CrashCourse2020ExercisesDayFourService\CrashCourse2020ExercisesDayFourService.csproj" />
+    </ItemGroup>
+
+</Project>
