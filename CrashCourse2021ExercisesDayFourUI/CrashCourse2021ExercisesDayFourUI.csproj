@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <OutputType>Exe</OutputType>
+        <LangVersion>9</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CrashCourse2021ExercisesDayFourModels\CrashCourse2021ExercisesDayFourModels.csproj" />
+      <ProjectReference Include="..\CrashCourse2021ExercisesDayFourService\CrashCourse2021ExercisesDayFourService.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashCourse2021ExercisesDayFourDataLayer", "CrashCourse2021ExercisesDayFourDataLayer\CrashCourse2021ExercisesDayFourDataLayer.csproj", "{BE27DAC8-90C6-4BA6-8DAB-44B4B2D9E5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashCourse2021ExercisesDayFourModels", "CrashCourse2021ExercisesDayFourModels\CrashCourse2021ExercisesDayFourModels.csproj", "{89197DA5-55B3-46EF-A5EF-B3D000AF1FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashCourse2021ExercisesDayFourService", "CrashCourse2021ExercisesDayFourService\CrashCourse2021ExercisesDayFourService.csproj", "{51B6CA1F-F1DC-42EA-B7BD-AFF7326C5EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrashCourse2021ExercisesDayFourUI", "CrashCourse2021ExercisesDayFourUI\CrashCourse2021ExercisesDayFourUI.csproj", "{A1644943-739A-4C6E-9340-AD7002F4725F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE27DAC8-90C6-4BA6-8DAB-44B4B2D9E5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE27DAC8-90C6-4BA6-8DAB-44B4B2D9E5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE27DAC8-90C6-4BA6-8DAB-44B4B2D9E5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE27DAC8-90C6-4BA6-8DAB-44B4B2D9E5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89197DA5-55B3-46EF-A5EF-B3D000AF1FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89197DA5-55B3-46EF-A5EF-B3D000AF1FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89197DA5-55B3-46EF-A5EF-B3D000AF1FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89197DA5-55B3-46EF-A5EF-B3D000AF1FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B6CA1F-F1DC-42EA-B7BD-AFF7326C5EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B6CA1F-F1DC-42EA-B7BD-AFF7326C5EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B6CA1F-F1DC-42EA-B7BD-AFF7326C5EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B6CA1F-F1DC-42EA-B7BD-AFF7326C5EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1644943-739A-4C6E-9340-AD7002F4725F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1644943-739A-4C6E-9340-AD7002F4725F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1644943-739A-4C6E-9340-AD7002F4725F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1644943-739A-4C6E-9340-AD7002F4725F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
