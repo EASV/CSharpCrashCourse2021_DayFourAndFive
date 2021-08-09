@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <LangVersion>9</LangVersion>
+        <PackageId>CrashCourse2021.Exercises.DayFour.DataLayer</PackageId>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CrashCourse2021.Exercises.DayFour.Models\CrashCourse2021.Exercises.DayFour.Models.csproj" />
+    </ItemGroup>
+
+</Project>
